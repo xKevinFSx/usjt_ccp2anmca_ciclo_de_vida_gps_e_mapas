@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">usjt_ccp2anmca_ciclo_de_vida_gps_e_mapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">Sem GPS não rola</string>
+</resources>
